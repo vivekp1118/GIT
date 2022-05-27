@@ -1,5 +1,6 @@
 # GIT
-Executed following :
+
+Successfully Executed Following Assignments:
 
 Lesson 1:
 
